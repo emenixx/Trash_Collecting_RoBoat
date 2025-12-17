@@ -24,11 +24,15 @@ It was done using the SKIL and SPOT makerspaces at EPFL.
 
 ### Files in *Objects*
 
+3D models:
 - "*BAG_clip_L.step*" is a 3D model of the clip used to install our mesh bag, left version;
 - "*BAG_clip_L.step*" is a 3D model of the other clip used to install our mesh bag, right version;
 - "*GEAR_conveyor-belt.step*" is a 3D model of the gear that makes the conveyor belt run;
+- "*AXIS_bonnet_bearing.step*" is a 3D model of the bonnet bearing that holds the bottom axis of the conveyor belt.
+
+2D models:
 - "*MOTOR_box_conveyor-belt.dxf*" is a 2D model of the box covering the motor of the conveyor belt, protecting it from splashes and fixing it on the prototype;
-- "*MOTOR_box_paddle-wheel.dxf*" is a 2D model of the box covering the motor of the paddle wheel, protecting it from splashes and fixing it on the prototype;
+- "*MOTOR_box_paddle-wheel.dxf*" is a 2D model of the box covering the motor of the paddle wheel, protecting it from splashes and fixing it on the prototype.
 
 ### Files in *Documentation*
 
