@@ -1,10 +1,8 @@
-# Date : December 2025
-# Institution : Ecole Polytechnique Federale de Lausanne (EPFL)
-# Course : ENV-415, Prototyping at the Interface between Disciplines (SIE Bachelor optional course)
+### Date : December 2025
+### Institution : Ecole Polytechnique Federale de Lausanne (EPFL)
+### Course : ENV-415, Prototyping at the Interface between Disciplines (SIE Bachelor optional course)
 
-===========================================================
 # Project : Trash-collecting Ro-Boat
-===========================================================
 
 ## Project description
 
